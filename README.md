@@ -90,7 +90,7 @@ Busco me consolidar como **Desenvolvedor Full Stack**. Atualmente tenho uma base
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-stats-extended.vercel.app/api?username=devg-lustosa&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=stars" 
   />
 
