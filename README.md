@@ -85,15 +85,20 @@ Busco me consolidar como **Desenvolvedor Full Stack**. Atualmente tenho uma base
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p>
   <img 
-    height="180" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=devg-lustosa&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=stars" 
-    alt="Github Stats" 
   />
-  <img 
-    height="165" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devg-lustosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-    alt="Top Langs" 
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=devg-lustosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
+
 </p>
